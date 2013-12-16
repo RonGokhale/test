@@ -1,0 +1,9 @@
+. REMOVE_CACHE=1
+
+if busybox [ $REMOVE_CACHE -eq 1 ]; then
+	CACHE_DIR=(` busybox find /data/data -type d -iname *cache* -print `);
+	for dir in ${CACHE_DIR[*]}; do
+		busybox find $dir -type f -delete
+	done
+	log -p i -t boot "Cleared data cache..."
+fi
