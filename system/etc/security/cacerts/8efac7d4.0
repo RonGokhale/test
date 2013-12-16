@@ -1,0 +1,88 @@
+-----BEGIN CERTIFICATE-----
+MIIEaDCCA1CgAwIBAgIOX+0AAQACAz62og/FKLowDQYJKoZIhvcNAQEFBQAweTEL
+MAkGA1UEBhMCREUxHDAaBgNVBAoTE1RDIFRydXN0Q2VudGVyIEdtYkgxJDAiBgNV
+BAsTG1RDIFRydXN0Q2VudGVyIFVuaXZlcnNhbCBDQTEmMCQGA1UEAxMdVEMgVHJ1
+c3RDZW50ZXIgVW5pdmVyc2FsIENBIEkwHhcNMDcxMTI1MTU1OTU5WhcNMjUxMjMx
+MjI1OTU5WjCBvDELMAkGA1UEBhMCREUxEDAOBgNVBAgTB0hhbWJ1cmcxEDAOBgNV
+BAcTB0hhbWJ1cmcxOjA4BgNVBAoTMVRDIFRydXN0Q2VudGVyIGZvciBTZWN1cml0
+eSBpbiBEYXRhIE5ldHdvcmtzIEdtYkgxIjAgBgNVBAsTGVRDIFRydXN0Q2VudGVy
+IENsYXNzIDEgQ0ExKTAnBgkqhkiG9w0BCQEWGmNlcnRpZmljYXRlQHRydXN0Y2Vu
+dGVyLmRlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwKeu0drOu17ZbtF7n
+veOxnEkEV1uhq9l/Exv9umGr2Odx3y0AlF1RSH0j73VihJA8Ch9ZEXQvjoCl/TAC
+PSlSzXIaSSGcvMtSjkihY5bIEIUwaVd0RcBahsbVPeBoV30xaiSNRZc+MX5oZjJu
+JG3sMjbJQcrwMUTIo2HKG6A2HwIDAQABo4IBLDCCASgwRAYIKwYBBQUHAQEEODA2
+MDQGCCsGAQUFBzABhihodHRwOi8vb2NzcC50Y3VuaXZlcnNhbC1JLnRydXN0Y2Vu
+dGVyLmRlMB8GA1UdIwQYMBaAFJKkdSyknr6BROt5/IrFlaXrEHVzMA8GA1UdEwEB
+/wQFMAMBAf8wRQYDVR0gBD4wPDA6BgRVHSAAMDIwMAYIKwYBBQUHAgEWJGh0dHA6
+Ly93d3cudHJ1c3RjZW50ZXIuZGUvZ3VpZGVsaW5lczAOBgNVHQ8BAf8EBAMCAQYw
+VwYDVR0fBFAwTjBMoEqgSIZGaHR0cDovL2NybC50Y3VuaXZlcnNhbC1JLnRydXN0
+Y2VudGVyLmRlL2NybC92Mi90Y191bml2ZXJzYWxfcm9vdF9JLmNybDANBgkqhkiG
+9w0BAQUFAAOCAQEAbSukOT3vJaTtgqmjXWZ+eg98Mb0KPHZMXwZDcUshmS39+wW9
+Fis3UI1W0MYJxJSP6sjx+MlhOVQLn1K15NCrn8V2aaBgRivkimjLxyNlYRX3Zr0g
+goba1m3IzlgBau7hNAeAb+F9kl8BSP/Refq9ZtnhUawqwK24oDD1Hy01C3P5VgzF
+FHXFlrs9fEjH4Qwiv1b7caGYQjXYeNlXNGyhLhASlOGH7RQbqqmwqPta6PMGvPA2
+cporH38oRj3Uk9Bb2azJwq26/c2xajsZiwZ81w3EE/ImaXkxPyBJv5Sb+AZwlRO+
+PBIvBi53vmdknOBMtI0KXtpOkVydaPSfIvf1YA==
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            5f:ed:00:01:00:02:03:3e:b6:a2:0f:c5:28:ba
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=DE, O=TC TrustCenter GmbH, OU=TC TrustCenter Universal CA, CN=TC TrustCenter Universal CA I
+        Validity
+            Not Before: Nov 25 15:59:59 2007 GMT
+            Not After : Dec 31 22:59:59 2025 GMT
+        Subject: C=DE, ST=Hamburg, L=Hamburg, O=TC TrustCenter for Security in Data Networks GmbH, OU=TC TrustCenter Class 1 CA/emailAddress=certificate@trustcenter.de
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b0:29:eb:b4:76:b3:ae:d7:b6:5b:b4:5e:e7:bd:
+                    e3:b1:9c:49:04:57:5b:a1:ab:d9:7f:13:1b:fd:ba:
+                    61:ab:d8:e7:71:df:2d:00:94:5d:51:48:7d:23:ef:
+                    75:62:84:90:3c:0a:1f:59:11:74:2f:8e:80:a5:fd:
+                    30:02:3d:29:52:cd:72:1a:49:21:9c:bc:cb:52:8e:
+                    48:a1:63:96:c8:10:85:30:69:57:74:45:c0:5a:86:
+                    c6:d5:3d:e0:68:57:7d:31:6a:24:8d:45:97:3e:31:
+                    7e:68:66:32:6e:24:6d:ec:32:36:c9:41:ca:f0:31:
+                    44:c8:a3:61:ca:1b:a0:36:1f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.tcuniversal-I.trustcenter.de
+
+            X509v3 Authority Key Identifier: 
+                keyid:92:A4:75:2C:A4:9E:BE:81:44:EB:79:FC:8A:C5:95:A5:EB:10:75:73
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: http://www.trustcenter.de/guidelines
+
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.tcuniversal-I.trustcenter.de/crl/v2/tc_universal_root_I.crl
+
+    Signature Algorithm: sha1WithRSAEncryption
+         6d:2b:a4:39:3d:ef:25:a4:ed:82:a9:a3:5d:66:7e:7a:0f:7c:
+         31:bd:0a:3c:76:4c:5f:06:43:71:4b:21:99:2d:fd:fb:05:bd:
+         16:2b:37:50:8d:56:d0:c6:09:c4:94:8f:ea:c8:f1:f8:c9:61:
+         39:54:0b:9f:52:b5:e4:d0:ab:9f:c5:76:69:a0:60:46:2b:e4:
+         8a:68:cb:c7:23:65:61:15:f7:66:bd:20:82:86:da:d6:6d:c8:
+         ce:58:01:6a:ee:e1:34:07:80:6f:e1:7d:92:5f:01:48:ff:d1:
+         79:fa:bd:66:d9:e1:51:ac:2a:c0:ad:b8:a0:30:f5:1f:2d:35:
+         0b:73:f9:56:0c:c5:14:75:c5:96:bb:3d:7c:48:c7:e1:0c:22:
+         bf:56:fb:71:a1:98:42:35:d8:78:d9:57:34:6c:a1:2e:10:12:
+         94:e1:87:ed:14:1b:aa:a9:b0:a8:fb:5a:e8:f3:06:bc:f0:36:
+         72:9a:2b:1f:7f:28:46:3d:d4:93:d0:5b:d9:ac:c9:c2:ad:ba:
+         fd:cd:b1:6a:3b:19:8b:06:7c:d7:0d:c4:13:f2:26:69:79:31:
+         3f:20:49:bf:94:9b:f8:06:70:95:13:be:3c:12:2f:06:2e:77:
+         be:67:64:9c:e0:4c:b4:8d:0a:5e:da:4e:91:5c:9d:68:f4:9f:
+         22:f7:f5:60
+SHA1 Fingerprint=5E:B4:94:90:0B:4E:0B:A5:5C:C0:DC:33:FF:F8:BB:B4:64:88:6C:2D

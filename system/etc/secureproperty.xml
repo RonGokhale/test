@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<packages>
+    <package name="com.android.cts.stub" />
+    <package name="android.tests.devicesetup" />
+    <package name="com.android.cts.os" />
+    <!-- U16 begin -->
+    <package name="com.htc.commoncontrol.demo" />
+    <!-- U16 end -->
+    <package name="com.android.gpstool" />
+    <package name="com.htc.AndroidTestII" />
+    <package name="com.htc.CSDFunctionR" />
+    <package name="com.android.CSDFunctionR" />
+    <package name="com.GetIMSI" />
+</packages>
