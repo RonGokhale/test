@@ -1,0 +1,7 @@
+@@version=131072
+Landroid/view/SurfaceView;
+Landroid/opengl/GLSurfaceView;
+Landroid/graphics/Movie;
+Landroid/text/Layout;
+Landroid/graphics/Picture;
+Landroid/widget/ScrollView;

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<permissions>
+  <permission name="com.facebook.system.permission.FACEBOOK_SYSTEM_DASH_SERVICE" />
+  <permission name="com.facebook.system.permission.READ_NOTIFICATIONS" />
+  <permission name="com.facebook.system.permission.LAUNCH_DASH" />
+  <permission name="com.facebook.system.permission.LAUNCH_HOME" />
+</permissions>

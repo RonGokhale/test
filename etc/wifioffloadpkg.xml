@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WifiOffload>
+	<BlackList>
+		<Package>com.htc.launcher</Package>
+		<Package>com.htc.calendar</Package>
+		<Package>com.android.camera</Package>
+		<Package>com.htc.android.worldclock</Package>
+		<Package>com.android.development</Package>
+		<Package>com.htc.dockmode</Package>
+		<Package>com.htc.fm</Package>
+		<Package>com.htc.android.ssdtest</Package>
+		<Package>com.android.mms</Package>
+		<Package>com.htc.vvm</Package>
+		<Package>com.android.htccontacts</Package>
+		<Package>com.android.settings</Package>
+		<Package>com.htc.android.htcsetupwizard</Package>
+		<Package>com.htc.soundrecorder</Package>
+		<Package>com.android.phone</Package>
+		<Package>com.htc.VzWBackupAssistantClient</Package>
+		<Package>com.vzw.hs.android.modlite</Package>
+		<Package>com.htc.tetheringguard</Package>
+		<Package>com.vzw.hss.myverizon</Package>
+		<Package>com.htc.HTCSpeaker</Package>
+		<Package>com.htc.album</Package>
+		<Package>com.htc.music</Package>
+		<Package>com.htc.sdm</Package>
+		<Package>com.google.android.apps.maps</Package>
+		<Package>com.google.android.location</Package>
+		<Package>com.mobitv.client.nfl2010</Package>
+		<Package>com.cequint.ecid</Package>
+		<Package>com.htc.home.personalize</Package>
+		<Package>com.android.bluetooth</Package>
+		<Package>com.google.android.epst</Package>
+		<Package>com.redbend.vdmc</Package>
+		<Package>com.google.android.fieldtrial</Package>
+		<Package>com.android.dmportread</Package>
+		<Package>com.google.android.voicesearch</Package>
+		<Package>com.htc.android.epst</Package>
+		<Package>com.htc.android.fieldtrial</Package>
+		<Package>com.htc.video</Package>
+		<Package>com.infraware.docmaster</Package>
+		<Package>com.google.android.music</Package>
+                <Package>com.htc.android.htcime</Package>
+                <Package>com.vznavigator.HTC6500LVW</Package>
+                <Package>com.htc.showme</Package>
+                <Package>com.htc.dnatransfer</Package>
+                <Package>com.vznavigator.Generic</Package>
+                <Package>com.gotv.nflgamecenter.us.lite</Package>
+                <Package>com.vzw.accessories</Package>
+	</BlackList>
+
+	<WhiteList>
+	</WhiteList>
+</WifiOffload>
